@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and local settings
+.idea/
+.vscode/
+.env
+.env.*
+
+# Datasets and trained models
+data/
+GTSRB/
+models/
+checkpoints/
+*.pth
+*.pt
+*.pkl
+*.onnx
+
+# Generated outputs
+outputs/
+
