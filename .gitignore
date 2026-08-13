@@ -11,9 +11,9 @@ venv/
 .env.*
 
 # Datasets and trained models
-data/
+/data/
 GTSRB/
-models/
+/models/
 checkpoints/
 *.pth
 *.pt
@@ -22,4 +22,3 @@ checkpoints/
 
 # Generated outputs
 outputs/
-
